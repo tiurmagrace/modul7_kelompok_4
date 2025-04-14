@@ -1,0 +1,23 @@
+[
+  {
+    "NIM": "2311104073",
+    "FirstName": "Farhan",
+    "LastName": "Kurniawan",
+    "Age": 20,
+    "Gender": "Male"
+  },
+  {
+    "NIM": "2311104099",
+    "FirstName": "Budi",
+    "LastName": "Santoso",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "NIM": "2311104001",
+    "FirstName": "Rina",
+    "LastName": "Kartika",
+    "Age": 20,
+    "Gender": "Female"
+  }
+]
