@@ -49,5 +49,5 @@ public class DataMahasiswa2311104042
         }
 
         Console.ReadLine(); 
-    }
+    }  
 }

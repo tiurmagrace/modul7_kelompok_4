@@ -8,12 +8,16 @@ class Program
         TeamMembers2311104042.ReadJSON();
         GlossaryItem2311104042.ReadJSON();
 
-        DataMahasiswa2311104073.ReadJSON();
-        TeamMembers2311104073.ReadJSON();
-        GlossaryItem2311104073.ReadJSON();
-
         DataMahasiswa2311104053.ReadJSON();
         TeamMembers2311104053.ReadJSON();
         GlossaryItem2311104053.ReadJSON();
+
+        DataMahasiswa2311104061.ReadJSON();
+        TeamMembers2311104061.ReadJSON();
+        GlossaryItem2311104061.ReadJSON();
+
+        DataMahasiswa2311104073.ReadJSON();
+        TeamMembers2311104073.ReadJSON();
+        GlossaryItem2311104073.ReadJSON();
     }
 }

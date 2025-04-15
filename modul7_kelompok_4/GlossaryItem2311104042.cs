@@ -70,5 +70,5 @@ public class GlossaryItem2311104042
         }
 
         Console.ReadLine();     
-    }
+    }  
 }

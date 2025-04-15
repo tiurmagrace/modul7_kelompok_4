@@ -44,5 +44,5 @@ public class GlossaryItem2311104061
         Console.WriteLine($"Abbrev    : {entry.Abbrev}");
         Console.WriteLine($"Title     : {entry.Title}");
         Console.WriteLine($"GlossSee  : {entry.GlossSee}");
-    }
+    }  
 }

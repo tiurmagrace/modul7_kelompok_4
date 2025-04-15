@@ -11,5 +11,5 @@
    "courses": [
        { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
        { "code": "CRI2C3", "name": "Pemodelan Perangkat Lunak" }
-   ]
+   ]  
 }

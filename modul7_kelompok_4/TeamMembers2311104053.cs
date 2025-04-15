@@ -25,5 +25,5 @@ public class TeamMembers2311104053
         {
             Console.WriteLine($"{member.nim} {member.firstName} {member.lastName} ({member.age} {member.gender})");
         }
-    }
+    }  
 }

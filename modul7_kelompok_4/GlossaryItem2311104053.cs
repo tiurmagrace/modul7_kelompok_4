@@ -54,5 +54,5 @@ public class GlossaryItem2311104053
         Console.WriteLine($"Definition: {entry.GlossDef.para}");
         Console.WriteLine("See Also: " + string.Join(", ", entry.GlossDef.GlossSeeAlso));
         Console.WriteLine($"Gloss See: {entry.GlossSee}");
-    }
+    }  
 }

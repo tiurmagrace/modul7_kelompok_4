@@ -33,4 +33,4 @@ public class Mahasiswa
     public int Umur { get; set; }
     public string Kelas { get; set; }
     public string Asal { get; set; }
-}
+}  

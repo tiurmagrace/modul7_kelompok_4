@@ -38,5 +38,5 @@ public class DataMahasiswa2311104053
         {
             Console.WriteLine($"- {course.code}: {course.name}");
         }
-    }
+    } 
 }
