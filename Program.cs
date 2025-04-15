@@ -6,5 +6,6 @@ class Program
     {
         DataMahasiswa2311104053.ReadJSON();
         TeamMembers2311104053.ReadJSON();
+        GlossaryItem2311104053.ReadJSON();
     }
 }
