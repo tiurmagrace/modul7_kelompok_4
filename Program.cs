@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        TeamMembers2311104053.ReadJSON();
+        GlossaryItem2311104053.ReadJSON();
     }
 }
