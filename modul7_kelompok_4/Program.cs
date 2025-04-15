@@ -2,7 +2,6 @@
 {
     static void Main(string[] args)
     {
-        DataMahasiswa2311104042.ReadJSON();
-        
+        DataMahasiswa2311104042.ReadJSON();        
     }
 }
