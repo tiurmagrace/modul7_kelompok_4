@@ -1,0 +1,15 @@
+{
+   "firstName": "Tiurma Grace",
+   "lastName": "Angelina",
+   "gender": "female",
+   "age": 19,
+   "address": {
+       "streetAddress": "Arcawinangun",
+       "city": "Purwokerto",
+       "state": "Central Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C3", "name": "Pemodelan Perangkat Lunak" }
+   ]
+}

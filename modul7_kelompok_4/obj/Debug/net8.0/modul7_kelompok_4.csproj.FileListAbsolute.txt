@@ -1,0 +1,16 @@
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\jurnal7_1_2311104042.json
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.exe
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.deps.json
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.runtimeconfig.json
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.dll
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.pdb
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.AssemblyInfoInputs.cache
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.AssemblyInfo.cs
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.csproj.CoreCompileInputs.cache
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.sourcelink.json
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.dll
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\refint\modul7_kelompok_4.dll
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.pdb
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.genruntimeconfig.cache
+D:\Marvel\kpl_se07_02\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\ref\modul7_kelompok_4.dll
