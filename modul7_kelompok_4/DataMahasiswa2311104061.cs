@@ -35,7 +35,6 @@ public class DataMahasiswa2311104042
 
         Mahasiswa mhs = JsonSerializer.Deserialize<Mahasiswa>(jsonString);
 
-        Console.WriteLine("===== DATA MAHASISWA =====");
         Console.WriteLine($"Nama: {mhs.firstName} {mhs.lastName}");
         Console.WriteLine($"Jenis Kelamin: {mhs.gender}");
         Console.WriteLine($"Umur: {mhs.age}");
