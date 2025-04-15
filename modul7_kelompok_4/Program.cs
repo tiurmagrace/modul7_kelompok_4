@@ -7,5 +7,6 @@ class Program
 
         Console.WriteLine("\n=== Deserialisasi Glossary Item ===");
         GlossaryItem2311104073.ReadJSON();
+        
     }
 }
