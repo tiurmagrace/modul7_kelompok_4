@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 
-public class TeamMembers2311104042
+public class TeamMembers2311104061
 {
     public class Member
     {
@@ -23,7 +23,7 @@ public class TeamMembers2311104042
     {
         try
         {
-            string filePath = "jurnal7_2_2311104042.json"; 
+            string filePath = "jurnal7_2_2311104061.json";
             string jsonString = File.ReadAllText(filePath);
 
             MembersData data = JsonSerializer.Deserialize<MembersData>(jsonString);
@@ -36,9 +36,9 @@ public class TeamMembers2311104042
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Gagal membaca file JSON: " + ex.Message);
+            Console.WriteLine("Gagal : " + ex.Message);
         }
 
-        Console.ReadLine(); 
+        Console.ReadLine();
     }
 }
